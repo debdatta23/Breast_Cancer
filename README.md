@@ -1,0 +1,1 @@
+This GitHub repository contains a Jupyter Notebook file that focuses on breast cancer detection. The project aims to develop a machine learning model to classify whether a given breast cancer case is benign or malignant.
